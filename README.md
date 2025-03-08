@@ -36,7 +36,7 @@
 
 ## Посилання
 
-- **Жива сторінка (GitHub Pages)**: [Перейти до сторінки](https://www.figma.com/design/N5fbAHfq7g7WRiad5iSdlQ/Web-Studio-(Version-5.0)-(Copy)?node-id=296605-3&t=81IYGmKpwU0AlPYI-0)
+- **Жива сторінка (GitHub Pages)**: [Перейти до сторінки](https://0darkdante.github.io/goit-markup-hw-01/)
 
 ## Як запустити проєкт локально
 
